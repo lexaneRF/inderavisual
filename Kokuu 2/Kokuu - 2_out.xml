@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vrobject>
+  <input states="1" windowheight="600" width="400" imagepath="images" preview="4" windowwidth="400" height="600" preload="1" columns="8" rows="1" fileextension="png"/>
+  <control simulatemass="1" lockedmouse="0" swapxy="0" lockedkeyboard="1" dblclickfullscreen="1" revx="0" invertwheel="0" revy="0" wrapx="1" wrapy="0" trapwheel="1" automovemode="1" lockedwheel="1" speedwheel="1.000" controller="1" sensitivity="10"/>
+  <view>
+    <start row="0" column="0" state="0"/>
+    <zoom default="1" min="1" max="1"/>
+    <viewer imagescaling="1" backgroundcolor="0xffffff" background="0"/>
+  </view>
+  <autorotate speed="1.000" delay="5.00" start="0"/>
+  <userdata title="" datetime="" description="" copyright="" author="" source="" comment="" info=""/>
+  <qthotspots enabled="0" reuse="8">
+    <label width="180" backgroundalpha="1.000" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1.000" borderradius="1" wordwrap="1" textalpha="1.000"/>
+  </qthotspots>
+  <hotspots>
+    <label width="180" backgroundalpha="1.000" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1.000" borderradius="1" wordwrap="1" textalpha="1.000"/>
+    <polystyle mode="1" backgroundalpha="0.251" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1.000"/>
+    <hotspot title="" target="" skinid="" url="" id="Point01" reuse="0">
+      <location x="0.393333" y="0.284444" row="0" column="0" state="0"/>
+      <location x="0.413333" y="0.293333" row="0" column="1" state="0"/>
+      <location x="0.606667" y="0.288889" row="0" column="4" state="0"/>
+      <location x="0.546667" y="0.28" row="0" column="5" state="0"/>
+      <location x="0.486667" y="0.293333" row="0" column="6" state="0"/>
+      <location x="0.406667" y="0.293333" row="0" column="7" state="0"/>
+    </hotspot>
+    <hotspot title="" target="" skinid="" url="" id="Point02" reuse="0">
+      <location x="0.62" y="0.284444" row="0" column="0" state="0"/>
+      <location x="0.606667" y="0.275556" row="0" column="1" state="0"/>
+      <location x="0.52" y="0.284444" row="0" column="2" state="0"/>
+      <location x="0.446667" y="0.284444" row="0" column="3" state="0"/>
+      <location x="0.386667" y="0.293333" row="0" column="4" state="0"/>
+      <location x="0.593333" y="0.288889" row="0" column="7" state="0"/>
+    </hotspot>
+    <hotspot title="" target="" skinid="" url="" id="Point03" reuse="0">
+      <location x="0.377333" y="0.519111" row="0" column="0" state="0"/>
+      <location x="0.386667" y="0.533333" row="0" column="1" state="0"/>
+      <location x="0.633333" y="0.52" row="0" column="4" state="0"/>
+      <location x="0.606667" y="0.528889" row="0" column="5" state="0"/>
+      <location x="0.54" y="0.551111" row="0" column="6" state="0"/>
+      <location x="0.42" y="0.533333" row="0" column="7" state="0"/>
+    </hotspot>
+  </hotspots>
+</vrobject>
